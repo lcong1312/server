@@ -1,8 +1,8 @@
 {
   "os": 1,
   "server": {
-    "link": "Dragon Ball:172.17.83.161:14445:0,0,0",
-    "host": "172.17.83.161",
+    "link": "Dragon Ball:0.0.0.0:14445:0,0,0",
+    "host": "0.0.0.0",
     "port": 14445,
     "debug": false,
     "max-players": 1000000,
